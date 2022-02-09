@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Quotes</string>
+    <string name="sample_quote">Do for this life as if you live forever, do for the afterlife as if you die tomorrow.</string>
+    <string name="sample_author">-Imam Ali</string>
+    <string name="title_activity">Widget Configuration</string>
+
+    <string name="text_size_quote">Quote Size</string>
+    <string name="text_size_author">Author Size</string>
+
+    <string name="source">Quotes Source Link</string>
+    <string name="source_hint">Link to get quotes from</string>
+    <string name="btn_choose_color">Text Color</string>
+    <string name="btn_choose_bg_color">Card Color</string>
+
+</resources>
